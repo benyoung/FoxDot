@@ -356,7 +356,7 @@ class workspace:
             # print(hello)
             # print()
 
-            hello = "Welcome to FoxDot! Press {}+{} for help.".format(ctrl, self.help_key)
+            hello = "Welcome to FoxDot! (ben's fork) Press {}+{} for help.".format(ctrl, self.help_key)
             print(hello)
             print("-" * len(hello))
 
